@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>galgeek</title><link href="/" rel="alternate"></link><link href="/feeds/galgeek.atom.xml" rel="self"></link><id>/</id><updated>2014-09-30T00:00:00-07:00</updated><entry><title>thank yous!</title><link href="/thank-yous.html" rel="alternate"></link><updated>2014-09-30T00:00:00-07:00</updated><author><name>galgeek</name></author><id>tag:,2014-09-30:thank-yous.html</id><summary type="html">&lt;p&gt;I want to thank not only the various wonderful free and open source software 
-projects that make this site possible&amp;mdash;especially 
-&lt;a href="http://getpelican.com"&gt;Pelican&lt;/a&gt;&amp;mdash;but also extra-especially 
+projects that make this site possible&amp;mdash;&lt;br /&gt;
+especially &lt;a href="http://getpelican.com"&gt;Pelican&lt;/a&gt;&amp;mdash;but also extra-especially 
 &lt;a href="http://www.mozilla.org"&gt;Mozilla’s&lt;/a&gt; &lt;a href="http://ascendproject.org"&gt;Ascend Project&lt;/a&gt;,
 for helping me make friends with git, and 
 &lt;a href="http://mathamy.com"&gt;Amy Hanlon&lt;/a&gt; and her 
