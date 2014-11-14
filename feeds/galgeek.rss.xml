@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>galgeek</title><link>/</link><description></description><atom:link href="/feeds/galgeek.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 13 Nov 2014 00:00:00 -0800</lastBuildDate><item><title>“a little strange and a little unreal”</title><link>/a-little-strange-and-a-little-unreal.html</link><description>&lt;p&gt;This week&amp;mdash;mostly 
+&lt;a href="https://wiki.gnome.org/OutreachProgramForWomen/2014/DecemberMarch/#Mozilla"&gt;this&lt;/a&gt;, 
+but also a remarkably pleasant interview &lt;a href="http://urbanairship.com/"&gt;here&lt;/a&gt;, 
+and snovember itself&amp;mdash;is reminding me of this wonderful passage I noted 
+in James Gleick’s wondrous book 
+&lt;a href="https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood"&gt;&lt;em&gt;The Information: A History, a Theory, 
+a Flood&lt;/em&gt;&lt;/a&gt;...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘“Now through the very universality of its structures, starting with the [genetic] code, the biosphere looks like the product of a unique event.... The universe was not pregnant with life, nor the biosphere with man. Our number came up in the Monte Carlo game. Is it any wonder if, like a person who has just made a million at the casino, we feel a little strange and a little unreal?”’ &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Jacques Monod, Nobel laureate, 1970&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">galgeek</dc:creator><pubDate>Thu, 13 Nov 2014 00:00:00 -0800</pubDate><guid>tag:,2014-11-13:a-little-strange-and-a-little-unreal.html</guid></item><item><title>get a great browser, and support Firefox and the Open Web!</title><link>/get-a-great-browser-and-support-firefox-and-the-open-web.html</link><description>&lt;p&gt;&lt;a href="https://affiliates.mozilla.org/referral/67220/"&gt;
+    &lt;img src="https://affiliates.mozilla.org/media/uploads/banners/3e6d4e282cef9e27de25670b3c74b631140ab835.png" alt=""&gt;
+&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">galgeek</dc:creator><pubDate>Sat, 11 Oct 2014 00:00:00 -0700</pubDate><guid>tag:,2014-10-11:get-a-great-browser-and-support-firefox-and-the-open-web.html</guid></item><item><title>first patch landed!</title><link>/first-patch-landed.html</link><description>&lt;p&gt;Many thanks, again, to &lt;a href="http://www.mozilla.org"&gt;Mozilla’s&lt;/a&gt; &lt;a href="http://ascendproject.org"&gt;Ascend Project&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mozilla-tests changeset, author... galgeek" src="/images/mozmill-tests__changeset_4204_f17ca5e4fae9.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hg.mozilla.org/qa/mozmill-tests/rev/f17ca5e4fae9"&gt;https://hg.mozilla.org/qa/mozmill-tests/rev/f17ca5e4fae9&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">galgeek</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 -0700</pubDate><guid>tag:,2014-10-03:first-patch-landed.html</guid></item><item><title>thank yous!</title><link>/thank-yous.html</link><description>&lt;p&gt;I want to thank not only the various wonderful free and open source software 
+projects that make this site possible&amp;mdash;&lt;br /&gt;
+especially &lt;a href="http://getpelican.com"&gt;Pelican&lt;/a&gt;&amp;mdash;but also extra-especially 
+&lt;a href="http://www.mozilla.org"&gt;Mozilla’s&lt;/a&gt; &lt;a href="http://ascendproject.org"&gt;Ascend Project&lt;/a&gt;,
+for helping me make friends with git, and 
+&lt;a href="http://mathamy.com"&gt;Amy Hanlon&lt;/a&gt; and her 
+&lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;Migrating to GitHub Pages using Pelican&lt;/a&gt;, 
+the best documentation I’ve found for using Pelican with 
+&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">galgeek</dc:creator><pubDate>Tue, 30 Sep 2014 00:00:00 -0700</pubDate><guid>tag:,2014-09-30:thank-yous.html</guid></item><item><title>hello, world!</title><link>/hello-world.html</link><description>&lt;p&gt;hello, world!&lt;/p&gt;
+&lt;p&gt;ahoj, světe!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">galgeek</dc:creator><pubDate>Tue, 23 Sep 2014 00:00:00 -0700</pubDate><guid>tag:,2014-09-23:hello-world.html</guid></item></channel></rss>
